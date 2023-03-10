@@ -1,0 +1,1 @@
+cd spiders && scrapy crawl vietnamwork -O ../jobdata.json
